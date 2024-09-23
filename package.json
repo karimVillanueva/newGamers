@@ -1,0 +1,32 @@
+{
+  "name": "newgamers",
+  "version": "1.0.0",
+  "description": "This is a technical test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karimVillanueva/newGamers.git"
+  },
+  "keywords": [
+    "class",
+    "herence"
+  ],
+  "author": "karim villanueva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karimVillanueva/newGamers/issues"
+  },
+  "homepage": "https://github.com/karimVillanueva/newGamers#readme",
+  "dependencies": {
+    "eslint": "^8.57.1",
+    "eslint-plugin-jest": "^28.8.3",
+    "jest": "^29.7.0",
+    "standard": "^17.1.2"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  }
+}
